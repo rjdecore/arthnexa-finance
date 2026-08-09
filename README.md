@@ -17,7 +17,3 @@ Primary contact / WhatsApp:
 Secondary:
 +91 82085 54907
 
-### GitHub Pages
-Repository → Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
-
-After pushing the files, wait for the Pages deployment to finish and hard-refresh the website (Ctrl+F5).
