@@ -1,19 +1,20 @@
-# ArthNexa Finance — Standalone GitHub Pages Version
+# ArthNexa Finance — Static Business Website
 
-## IMPORTANT
-This version has the entire CSS embedded inside each HTML page.
-There is **NO dependency on style.css**, so the site will still render correctly if you upload the HTML files individually through GitHub's web uploader.
+## Project Objective
+A standalone finance/business website designed for deployment through GitHub Pages.
 
-Upload ALL of these files to the repository root:
-- index.html
-- about.html
-- services.html
-- favicon.svg
-- .nojekyll
+## Architecture
+The project uses self-contained HTML pages with embedded CSS so individual pages can render without depending on an external stylesheet.
 
-Primary contact / WhatsApp:
-+91 98601 53284
+## Included Pages
+- `index.html`
+- `about.html`
+- `services.html`
+- `favicon.svg`
+- `.nojekyll`
 
-Secondary:
-+91 82085 54907
+## Deployment
+Designed for static hosting through GitHub Pages.
 
+## Technology
+**HTML | CSS | GitHub Pages | Static Web Development**
